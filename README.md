@@ -28,3 +28,6 @@ o usuário interaja com os dados modelados por esse trecho do banco de dados. Co
 - [ ] **RNF-08 Segurança**: Todos os usuários, para terem acesso ao sistema, devem informar login e senha de identificação.
 - [ ] **RNF-09 Segurança**: Os dados dos usuários só poderão ser acessados por pessoas autorizadas.
 - [ ] **RNF-10 Requisitos Externos**: Caberá aos usuários garantir a veracidade de todas as informações sobre os dados cadastrais.
+
+## Regras de Negocios
+Algumas regras de negocios que podem ter neste sistema: Cálculos de preços, Graus de desconto ao cliente e Estabelecimento de prioridades.
